@@ -12,7 +12,9 @@ To create your own byte code, see www.luajit.org
 Setup
 ==================
 Compile main.c
+
 Link lua51.lib
+
 Keep lua51.dll next to .exe for execution
 
 main.c
